@@ -1,7 +1,7 @@
 
 
 ## Overview
-Basic starter codes, learning to code
+Basic codes, learning to code -java, js
 
 ## Contents
 
