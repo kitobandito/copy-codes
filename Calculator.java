@@ -37,7 +37,7 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        // Example usage
+        // example usage
         System.out.println("Add: " + add(5, 3));
         System.out.println("Subtract: " + subtract(5, 3));
         System.out.println("Multiply: " + multiply(5, 3));
