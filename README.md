@@ -6,7 +6,7 @@ Basic starter codes, learning to code
 ## Contents
 
 ### Basic Calculator Operations
-This section includes code snippets for the following basic calculator functions:
+code for the basic calculator functions:
 - Addition
 - Subtraction
 - Multiplication
@@ -80,10 +80,8 @@ def circle_perimeter(radius):
 
 finding mode and median from given numbers
 
-## Usage
-idkizzy
 
 
 
-## License
- licensed under the MIT License 
+
+
