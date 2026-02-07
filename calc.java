@@ -10,7 +10,7 @@ public class Calculator {
         return a - b;
     }
 
-    //  multiply two numbers
+    // multiply two numbers
     public static double multiply(double a, double b) {
         return a * b;
     }
@@ -28,7 +28,7 @@ public class Calculator {
         return Math.pow(base, exponent);
     }
 
-    //  calculate square root
+    // calculate square root
     public static double squareRoot(double a) {
         if (a < 0) {
             throw new IllegalArgumentException("Cannot calculate square root of a negative number");
