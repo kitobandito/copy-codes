@@ -42,12 +42,12 @@ def multiply(x, y):
 
 def divide(x, y):
     if y == 0:
-        return "Error: Division by zero!"
+        return "error: division by zero"
     return x / y
 ```
 
 ### Geometry Calculations
-In this section, you will find code snippets that help calculate the perimeter of various geometric shapes:
+ calculate the perimeter of various geometric shapes:
 - Perimeter of a rectangle
 - Perimeter of a triangle
 - Perimeter of a circle
@@ -86,4 +86,4 @@ idkizzy
 
 
 ## License
-This project is licensed under the MIT License 
+ licensed under the MIT License 
