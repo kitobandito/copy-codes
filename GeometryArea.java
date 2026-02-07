@@ -1,16 +1,16 @@
 public class GeometryArea {
 
-    // Method to calculate the area of a triangle
+    // calculate the area of a triangle
     public static double triangleArea(double base, double height) {
         return 0.5 * base * height;
     }
 
-    // Method to calculate the area of a square
+    // calculate the area of a square
     public static double squareArea(double side) {
         return side * side;
     }
 
-    // Method to calculate the area of a rectangle
+    // calculate the area of a rectangle
     public static double rectangleArea(double length, double width) {
         return length * width;
     }
@@ -20,23 +20,23 @@ public class GeometryArea {
         return Math.PI * radius * radius;
     }
 
-    // Method to calculate the area of a pentagon
+    // calculate the area of a pentagon
     public static double pentagonArea(double side) {
         return (1.720477 * side * side);
     }
 
-    // Method to calculate the area of a hexagon
+    // calculate the area of a hexagon
     public static double hexagonArea(double side) {
         return (2.598076 * side * side);
     }
 
-    // Method to calculate the area of an ellipse
+    // calculate the area of an ellipse
     public static double ellipseArea(double semiMajorAxis, double semiMinorAxis) {
         return Math.PI * semiMajorAxis * semiMinorAxis;
     }
 
     public static void main(String[] args) {
-        // Example usage:
+        // example usage:
         System.out.println("Area of triangle (base=5, height=10): " + triangleArea(5, 10));
         System.out.println("Area of square (side=4): " + squareArea(4));
         System.out.println("Area of rectangle (length=5, width=3): " + rectangleArea(5, 3));
