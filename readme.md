@@ -6,13 +6,13 @@ Basic codes, learning to code -java, js
 ## Contents
 
 ### Basic Calculator Operations
-code for the basic calculator functions:
-- Addition
-- Subtraction
-- Multiplication
-- Division
 
-#### Addition
+- addition
+- subtraction
+- multiplication
+- division
+
+#### addition
 ```python
 #  add two numbers
 
@@ -20,7 +20,7 @@ def add(x, y):
     return x + y
 ```
 
-#### Subtraction
+#### subtraction
 ```python
 #  subtract two numbers
 
@@ -28,7 +28,7 @@ def subtract(x, y):
     return x - y
 ```
 
-#### Multiplication
+#### multiplication
 ```python
 # multiply two numbers
 
@@ -36,7 +36,7 @@ def multiply(x, y):
     return x * y
 ```
 
-#### Division
+#### division
 ```python
 #  divide two numbers
 
@@ -46,13 +46,13 @@ def divide(x, y):
     return x / y
 ```
 
-### Geometry Calculations
- calculate the perimeter of various geometric shapes:
+### geometry calculations
+
 - Perimeter of a rectangle
 - Perimeter of a triangle
 - Perimeter of a circle
 
-#### Perimeter of a Rectangle
+#### perimeter of a rectangle
 ```python
 # calculate the perimeter of a rectangle
 
@@ -60,7 +60,7 @@ def rectangle_perimeter(length, width):
     return 2 * (length + width)
 ```
 
-#### Perimeter of a Triangle
+#### perimeter of a triangle
 ```python
 # calculate the perimeter of a triangle
 
@@ -68,7 +68,7 @@ def triangle_perimeter(a, b, c):
     return a + b + c
 ```
 
-#### Perimeter of a Circle
+#### perimeter of a circle
 ```python
 # calculate the perimeter (circumference) of a circle
 import math
@@ -76,7 +76,7 @@ import math
 def circle_perimeter(radius):
     return 2 * math.pi * radius
 ```
-#### Mode+ Median
+#### mode+ median
 
 finding mode and median from given numbers
 
