@@ -35,7 +35,7 @@ function squareRoot(a) {
 }
 
 
-// example in your browser console by pressing F12
+// example in browser console by pressing F12
 console.log("Add: " + add(5, 3));
 console.log("Subtract: " + subtract(5, 3));
 console.log("Multiply: " + multiply(5, 3));
