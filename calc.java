@@ -36,13 +36,5 @@ public class Calculator {
         return Math.sqrt(a);
     }
 
-    public static void main(String[] args) {
-        // example usage
-        System.out.println("Add: " + add(5, 3));
-        System.out.println("Subtract: " + subtract(5, 3));
-        System.out.println("Multiply: " + multiply(5, 3));
-        System.out.println("Divide: " + divide(5, 3));
-        System.out.println("Power: " + power(5, 3));
-        System.out.println("Square Root: " + squareRoot(25));
-    }
+    public static void main(String[] args) 
 }
